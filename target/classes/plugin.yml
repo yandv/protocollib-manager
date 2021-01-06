@@ -1,0 +1,6 @@
+name: ProtocolManager
+main: tk.yallandev.nms.ControllerMain
+version: 1.0
+author: yandv
+depend: [ProtocolLib]
+load: STARTUP
